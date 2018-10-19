@@ -18,6 +18,6 @@ int main(){
 		
 	}
 	blalvalvlalslsb
-	
+	dalsie zmeny len pre luciine zlate oci
 	
 }
