@@ -14,9 +14,6 @@ int main(){
 		}else if(y==0){
 			x=rand()%26+97;
 			printf("\t %c",x);
-		}else{
-			x=rand()%10;
-			printf("\t %d",x);
 		}
 		
 	}
